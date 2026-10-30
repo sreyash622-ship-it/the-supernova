@@ -1,17 +1,17 @@
 # The Supernova
 
-A static, browser-first science exploration site for college students.
+**Explore the invisible. Build what’s next.**
 
-## Publish with GitHub Pages
-
-This site is served directly from `index.html`. The included GitHub Actions workflow deploys the repository to GitHub Pages whenever a commit reaches `main`.
-
-1. Create a **public** GitHub repository named `the-supernova`.
-2. Put `index.html` and `.github/workflows/deploy.yml` at the repository root.
-3. In repository **Settings → Pages**, select **GitHub Actions** as the build and deployment source.
-4. Push to `main`. The public site URL will be `https://YOUR-USERNAME.github.io/the-supernova/`.
-
-The static prototype has no account, payment, data storage, or analytics backend. The planned subscription is not currently purchasable.
+**Live site:** [sreyash622-ship-it.github.io/the-supernova](https://sreyash622-ship-it.github.io/the-supernova/)
 
 Founded by **Sreyash Das**, created in collaboration with ChatGPT.
 
+The Supernova is a browser-first science exploration experience for college students, with pathways across biology, chemistry, mathematics, quantum mechanics, and aerospace.
+
+## Current stage
+
+The live site is an early front-end prototype. It includes subject filters, mission cards, and sample interactions. Full 3D models, scientific simulations, student accounts, and paid plans are not yet implemented. The planned subscription is not currently available for purchase.
+
+## Hosting
+
+Hosted for free on GitHub Pages at the address above. The workflow in `.github/workflows/deploy.yml` redeploys the static site when changes are pushed to `main`.
