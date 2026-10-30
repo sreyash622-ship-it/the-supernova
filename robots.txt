@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sreyash622-ship-it.github.io/the-supernova/sitemap.xml
