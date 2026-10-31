@@ -6,11 +6,21 @@
 
 Founded by **Sreyash Das**, created in collaboration with ChatGPT.
 
-The Supernova is a browser-first science exploration experience for college students, with pathways across biology, chemistry, mathematics, quantum mechanics, and aerospace.
+The Supernova is an interactive science-learning prototype for college students.
+
+## Working browser labs
+
+- **Biology:** trace blood circulation through the heart and identify cell organelles.
+- **Chemistry:** balance a virtual hydrogen-and-oxygen reaction and assemble atoms.
+- **Mathematics:** change quadratic coefficients and grow a recursive fractal.
+- **Quantum mechanics:** explore a qualitative tunneling model.
+- **Aerospace:** adjust altitude and speed in a numerical satellite-orbit model.
+
+Mission completion is saved in the learner’s browser on that device. The chemistry activity is a virtual educational model, not instructions for a physical experiment. The orbit and quantum activities are simplified teaching models.
 
 ## Current stage
 
-The live site is an early front-end prototype. It includes subject filters, mission cards, and sample interactions. Full 3D models, scientific simulations, student accounts, and paid plans are not yet implemented. The planned subscription is not currently available for purchase.
+The missions and controls run entirely in the browser. The site does not yet include accounts, cloud-synced progress, educator dashboards, production-grade 3D models, or paid plans. The planned subscription is not currently available for purchase.
 
 ## Hosting
 
